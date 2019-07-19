@@ -4,4 +4,4 @@ In short 'CfUnit' is a free open-source unit testing framework. Motivated by abs
 This is a CODESYS port of TcUnit written for TwinCAT3 by Jakob Sagatowski. Ported by ALiazz, Ingo & zer0g
 
 The CfUnit repository can be found at:
-https://forge.codesys.com/svn/prj,cfunit,code/trunk/landingpage/index.html?raw
+https://forge.codesys.com/svn/prj,cfunit,code/landingpage/index.html?raw
