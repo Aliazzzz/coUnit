@@ -1,5 +1,3 @@
-# Open-source Unittest Framework for CODESYS V3 has moved to
+# The unittest framework for CODESYS3 is hosted at
 
 ## https://forge.codesys.com/svn/prj,cfunit,code/landingpage/index.html?raw
-
-Where it has found a new home. See you there! ;-)
