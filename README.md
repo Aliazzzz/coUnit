@@ -1,3 +1,4 @@
-# The unittest framework for CODESYS3 is hosted at
+# The unittest framework for CODESYS3 has moved to
+## https://forge.codesys.com/prj/cfunit/
 
-## https://forge.codesys.com/svn/prj,cfunit,code/landingpage/index.html?raw
+See you there!
