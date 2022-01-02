@@ -1,5 +1,5 @@
-# CfUnit is the vanilla CODESYS v3.5 fork based on TcUnit for TwinCAT
+# CoUnit is the CODESYS v3.5 fork based on TcUnit for TwinCAT
 
-The TDD / Unit test framework for CODESYS3 has moved to
+The TDD / Unit test framework for CODESYS3 is available at
 
-## https://forge.codesys.com/prj/cfunit/
+## https://forge.codesys.com/lib/counit/
